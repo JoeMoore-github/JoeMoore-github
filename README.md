@@ -1,7 +1,7 @@
 - me = @JoeMoore-github
 - current interests:
 - Deep Learning/AI
-- Python in general
+- Python is what's for dinner
 - CV, microcontrollers, creative assemblages
 
 <!---
